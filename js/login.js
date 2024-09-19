@@ -3,7 +3,7 @@ document.getElementById('button-login').addEventListener('click', function(event
     const phoneNumber = document.getElementById('phone-number').value;
     const pinNumber = document.getElementById('pin-number').value;
 
-    if(phoneNumber === '1234' && pin-number === '1234'){
+    if(phoneNumber === '1234' && pinNumber === '1234'){
         console.log('User verified');
         window.location.href = '/home.html';
     }
