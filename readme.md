@@ -47,7 +47,3 @@ This project simulates a basic banking interface where users can deposit or with
 
 - You can change the default PIN by modifying the `pinNumber` variable in the cash-out and add-money functions.
 - You can enhance the project by adding more security features, validation, or even connecting it to a backend API for real-time data storage.
-
----
-
-This README outlines the main functionality and how to interact with the banking interface on your site. Let me know if you need to include any additional details!
